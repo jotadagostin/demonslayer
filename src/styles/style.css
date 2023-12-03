@@ -54,12 +54,11 @@ main .character .image {
 }
 
 .content .logo {
-    background-image: url("../imgs/demon-slayer-kimetsu-no-yaiba-logo-hd-png.png");
+    background-image: url("../imgs/demon-slayer-logo-black.png");
     background-size: cover ;
-    background-color: black;
-    height: 100px;
+    height: 200px;
     width: 230px;
-    margin-bottom: 35px;
+    margin-bottom: 30px;
 }
 
 .buttons {
